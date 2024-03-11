@@ -35,7 +35,7 @@ public class EmailServiceImpl implements EmailService {
 
     private String host="http://localhost:8080";
 
-    private String fromEmail ="hassen58166@gmail.com";
+    private String fromEmail ="your email";
     private final JavaMailSender emailSender;
     private final TemplateEngine templateEngine;
 
